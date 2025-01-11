@@ -4,7 +4,7 @@
 This project is a website redesign for **Free Our Vote**, a nonprofit organization working to re-enfranchise individuals with felony convictions. The redesign focused on creating a modern, accessible, and user-friendly interface.  
 
 ### 🛠️ Tools  
-- **Design Tool:** Figma  
+- **Design Tool:** Figma, Framer, Tableau, PowerBi 
 - **Key Features:** Responsive design, improved navigation, and accessibility enhancements.  
 
 ### 🌐 Live Website  
