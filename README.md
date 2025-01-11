@@ -11,6 +11,6 @@ This project is a website redesign for **Free Our Vote**, a nonprofit organizati
 [Visit the Website](https://freeourvote.com/)  
 
 ### 🎨 Screenshots  
-Include screenshots exported from Figma showcasing your design work.  
-![Home Page](https://your-screenshot-url)  
+Taken from Figma
+![Client Design](https://imgur.com/a/fbqDrXc)  
 
